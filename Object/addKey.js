@@ -4,4 +4,11 @@
 var animal;
 var addKey;
 
+function addKey(animal){
+ var animal={
+        name :"samir",
+        weight :20,
+        assingns :"jump",
+    }
+}
 

@@ -3,5 +3,7 @@
 
 var animal;
 var getKeys;
-
-
+function getKeys(animal){
+    for (var keys in object)
+    
+}
